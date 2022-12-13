@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1066974598659",
+    "project_id": "personal-app-test-env-firebase",
+    "storage_bucket": "personal-app-test-env-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066974598659:android:cfe00d1493dcab4ea86036",
+        "android_client_info": {
+          "package_name": "com.reactnativepushnotif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066974598659-h224q9o04lrv6bpuvas24d2o8o7tp4mg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu4hPa3l-ozcd5uuugMITBihJrup3wefM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066974598659-h224q9o04lrv6bpuvas24d2o8o7tp4mg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1066974598659-cop878pfolj1ovhad38tlsn5akssq435.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nomogastax.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

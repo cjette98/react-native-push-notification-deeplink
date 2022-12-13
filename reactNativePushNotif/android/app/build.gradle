@@ -1,3 +1,4 @@
+apply plugin: 'com.google.gms.google-services'
 apply plugin: "com.android.application"
 
 import com.android.build.OutputFile
@@ -255,6 +256,8 @@ dependencies {
     implementation "com.facebook.react:react-native:+"  // From node_modules
 
     implementation "androidx.swiperefreshlayout:swiperefreshlayout:1.0.0"
+    // For React Native Push Notification
+    implementation project(":react-native-push-notification")
 
     debugImplementation("com.facebook.flipper:flipper:${FLIPPER_VERSION}") {
         exclude group:'com.facebook.fbjni'
